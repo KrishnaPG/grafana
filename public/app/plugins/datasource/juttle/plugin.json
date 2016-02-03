@@ -1,0 +1,7 @@
+{
+  "name": "Juttle",
+  "type": "datasource",
+  "id": "juttle",
+  "metrics": true,
+  "annotations": true
+}
